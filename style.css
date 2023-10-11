@@ -38,12 +38,23 @@ nav {
         padding-right: 200px;
         margin-top: 150px;
       }
+      .Service{
+        color: black;
+        text-align: left;
+        padding: 20px;
+        padding-left: 125px;
+        padding-right: 200px;
+        margin-top: 250px;
+      }
   
       .header-text {
         margin-bottom: 10px;
       }
 
       .header-text-2{
+        margin-bottom: 10px;
+      }
+      .header-text-3{
         margin-bottom: 10px;
       }
       h1, h2 {
@@ -99,5 +110,198 @@ nav {
         width: 400px;
         margin-left: 200px;
         margin-top: 500px;
-    }
 
+    }
+    .angka-text {
+        position: absolute;
+        top: 600px; 
+        right: 180px; 
+        font-size: 30px;
+        font-weight: bold;
+        color: black; 
+        margin-top: 50px;
+        }
+    
+        .angka-text p {
+        margin: 0; 
+        }
+    
+        .angka-text p span {
+        margin-right: 20px; 
+        border-bottom: 7px solid aqua; 
+        padding-bottom: 3px;
+        }
+
+        .button-contactus {
+            text-decoration: none;
+            color: white;
+          }
+
+          .contactus {
+            margin-left: 125px;
+            margin-right: 125px;
+            margin-top: 100px;
+          }
+
+          .btn-3 {
+            width: 100px;
+            height: 30px;
+            text-align: center;
+            color: white;
+            background-color: aqua;
+            border: 3px solid white;
+            margin-left: 900px;
+          }
+          .gambar-1 {
+            position: absolute;
+            width: 200px;
+            height: 150px;
+            left: 90px;
+            top: 1020px;
+            }
+        
+            .gambar-2 {
+            position: absolute;
+            width: 200px;
+            height: 150px;
+            left: 530px;
+            top: 1020px;
+            }
+        
+            .gambar-3 {
+            position: absolute;
+            width: 200px;
+            height: 150px;
+            left: 950px;
+            top: 1020px;
+            }
+        
+            .grid-1 {
+            position: absolute;
+            width: 175px;
+            height: 11 0px;
+            left: 90px;
+            top: 1170px;
+            background-color: white;
+            padding: 10px;
+            border: 2px solid white; 
+            box-shadow: 1px 3px 3px gray; 
+            text-align: center;
+            }
+              
+            .kotak-1 {
+            font-size: 15px;
+            font-weight: bold;
+            }
+              
+            .teks-1 {
+            font-size: 12px;
+            color: gray;
+            }
+        
+            .grid-2 {
+            position: absolute;
+            width: 175px;
+            height: 11 0px;
+            left: 530px;
+            top: 1170px;
+            background-color: white;
+            padding: 10px;
+            border: 2px solid white; 
+            box-shadow: 1px 3px 3px gray; 
+            text-align: center;
+            }
+                  
+            .kotak-2 {
+            font-size: 15px;
+            font-weight: bold;
+            }
+                  
+            .teks-2 {
+            font-size: 12px;
+            color: gray;
+            }
+        
+            .grid-3 {
+            position: absolute;
+            width: 175px;
+            height: 11 0px;
+            left: 950px;
+            top: 1170px;
+            background-color: white;
+            padding: 10px;
+            border: 2px solid white; 
+            box-shadow: 1px 3px 3px gray; 
+            text-align: center;
+            }
+                      
+            .kotak-3 {
+            font-size: 15px;
+            font-weight: bold;
+            }
+                      
+            .teks-3 {
+            font-size: 12px;
+            color: gray;
+            }
+        
+            .Contactus-text {
+            position: absolute;
+            top: 1400px; 
+            left: 90px;
+            font-size: 30px;
+            font-weight: bold;
+            color: black;
+            }
+                
+            .Contactus-text p {
+            margin: 0px 0;
+            margin-bottom: 0px; 
+            margin-left: 0px;
+            }
+            
+            .lorem-text {
+            position: absolute;
+            top: 1445px; 
+            left: 90px;
+            font-size: 16px; 
+            color: #999; 
+            }
+                
+            .lorem-text p {
+            margin: 0px 0; 
+            }
+        
+            .Location-text {
+            position: absolute;
+            top: 1620px; 
+            left: 0px;
+            font-size: 30px;
+            font-weight: bold;
+            color: black;
+            margin-left: 800px;
+            }
+                    
+            .Location-text p {
+            margin: 0px;
+            margin-bottom: 0px; 
+            margin-left: 0px;
+            flex: 1;
+            padding: 20px; 
+
+            }
+            .contact-us-button-right {
+            position: absolute;
+            top: 900px;
+            right: 200px; 
+            background-color: aqua;
+            color: white;
+            border: 2px solid aqua;
+            padding: 7px 28px;
+            border-radius: 0;
+            }
+                
+            .contact-us-button-right:hover {
+            background-color: white;
+            color: aqua;
+            }
